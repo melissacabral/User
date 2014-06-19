@@ -3,6 +3,8 @@
 	[
 		"ColorPicker",
 		"DeleteBlankLines",
+		"DocBlockr",
+		"Emmet",
 		"Hex-to-RGBA",
 		"LiveReload",
 		"Markdown Preview",
