@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+/*
+Plugin Name: Product Post type and Taxonomy
+Author: Melissa Cabral
+Plugin URI: http://plugin-support-site.com
+Description: Creates products with brands and features
+Author URI: http://melissacabral.com
+License: GPLv3
+Version: 0.1
+*/
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>plugin</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

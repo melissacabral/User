@@ -1,0 +1,14 @@
+{
+	"installed_packages":
+	[
+		"ColorPicker",
+		"DeleteBlankLines",
+		"Hex-to-RGBA",
+		"LiveReload",
+		"Markdown Preview",
+		"Package Control",
+		"Search WordPress Codex",
+		"SideBarEnhancements",
+		"WordPress"
+	]
+}
