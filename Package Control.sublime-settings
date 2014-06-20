@@ -1,16 +1,18 @@
 {
 	"installed_packages":
 	[
+		"Alignment",
 		"ColorPicker",
 		"DeleteBlankLines",
 		"DocBlockr",
 		"Emmet",
 		"Hex-to-RGBA",
 		"HTML5",
+		"LiveReload",
+		"Markdown Preview",
 		"Package Control",
 		"Search WordPress Codex",
 		"SideBarEnhancements",
-		"WordPress",
-		"Wordpress"
+		"WordPress"
 	]
 }
