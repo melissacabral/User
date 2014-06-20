@@ -7,10 +7,10 @@ This repo is designed to update the settings and configuration of your installat
 
 ## Installation
 
-* Install Package Control first! https://sublime.wbond.net/installation
+* [Install Package Control](https://sublime.wbond.net/installation) first! 
 * in Sublime text, go to _Preferences > Browse Packages_
 * Open to the _Users_ folder
-* Download the zip from this repo ->
+* Download the zip from [this repo](https://github.com/melissacabral/User/archive/master.zip)
 * Place the files directly in your users folder
 
 ##Example Users Folder Structure
