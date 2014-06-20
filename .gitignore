@@ -1,10 +1,9 @@
-Package Control.cache
 Package Control.last-run
 Default (Linux).sublime-keymap
 Default (OSX).sublime-keymap
 Default (Windows).sublime-keymap
 Side Bar.sublime-settings
-
+*.cache
 
 
 
