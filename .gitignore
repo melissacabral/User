@@ -4,6 +4,7 @@ Default (OSX).sublime-keymap
 Default (Windows).sublime-keymap
 Side Bar.sublime-settings
 *.cache
+color schemes/*.cache
 
 
 
