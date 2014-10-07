@@ -5,15 +5,14 @@
 		"ColorPicker",
 		"DeleteBlankLines",
 		"DocBlockr",
-		"Emmet",
 		"Hex-to-RGBA",
 		"HTML5",
 		"LiveReload",
 		"Markdown Preview",
+		"Minifier",
 		"Package Control",
 		"Search WordPress Codex",
 		"SideBarEnhancements",
-		"SublimeCodeIntel",
 		"WordPress"
 	]
 }

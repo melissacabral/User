@@ -1,14 +1,14 @@
 <snippet>
 	<content><![CDATA[
 /*
-Plugin Name: Product Post type and Taxonomy
+Plugin Name: ${1:Corner Ribbon}
+Description: ${2:A basic plugin that puts a promo-ribbon on the corner of the screen}
 Author: Melissa Cabral
-Plugin URI: http://plugin-support-site.com
-Description: Creates products with brands and features
+Plugin URI: ${3:http://wordpress.melissacabral.com}
 Author URI: http://melissacabral.com
-License: GPLv3
 Version: 0.1
-*/
+License: GPLv3
+ */
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>plugin</tabTrigger>
