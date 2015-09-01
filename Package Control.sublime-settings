@@ -1,7 +1,11 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"Alignment",
+		"Color Highlighter",
 		"ColorPicker",
 		"DeleteBlankLines",
 		"DocBlockr",
@@ -12,6 +16,7 @@
 		"Minifier",
 		"Package Control",
 		"Search WordPress Codex",
+		"Search WordPress Codex or QueryPosts",
 		"SideBarEnhancements",
 		"WordPress"
 	]
