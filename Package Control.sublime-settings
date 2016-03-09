@@ -1,6 +1,9 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"Hex-to-RGBA",
+		"Search WordPress Codex"
 	],
 	"installed_packages":
 	[
@@ -10,7 +13,6 @@
 		"DeleteBlankLines",
 		"DocBlockr",
 		"Hex-to-RGBA",
-		"HTML5",
 		"LiveReload",
 		"Markdown Preview",
 		"Minifier",
