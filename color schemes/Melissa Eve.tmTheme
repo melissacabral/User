@@ -12,15 +12,15 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#0d0d0d</string>
+				<string>#1a1a1a</string>
 				<key>caret</key>
 				<string>#A7A7A7</string>
 				<key>foreground</key>
 				<string>#F8F8F8</string>
 				<key>invisibles</key>
-				<string>#FFFFFF40</string>
+				<string>#FFFFFF20</string>
 				<key>lineHighlight</key>
-				<string>#46494e</string>
+				<string>#2b3040</string>
 				<key>selection</key>
 				<string>#343e24</string>
 			</dict>
@@ -166,7 +166,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#F0F3FA19</string>
+				<string>#F0F3FA08</string>
 			</dict>
 		</dict>
 		<dict>
@@ -627,6 +627,7 @@
 				<string>bold</string>
 		    </dict>
 		</dict>
+
 	</array>
 	<key>uuid</key>
 	<string>766026CB-703D-4610-B070-8DE07D967C5F</string>
