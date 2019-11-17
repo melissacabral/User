@@ -1,9 +1,9 @@
-# Sublime Text 2 Packages and settings 
+# Sublime Text 3 Packages and settings 
 
 ### for students in Melissa Cabral's Courses
 
 
-This repo is designed to update the settings and configuration of your installation of Sublime text to match the ones Melissa uses during class demos. If you are particular about your personal settings, make a backup of your "User" folder on your desktop. 
+This repo is designed to update the settings and configuration of your installation of Sublime text to match the ones Melissa uses during class demos. If you want to keep your personal settings, make a backup of your "User" folder. 
 
 ## Installation
 
