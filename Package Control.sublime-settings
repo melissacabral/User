@@ -3,28 +3,39 @@
 	"in_process_packages":
 	[
 		"Hex-to-RGBA",
-		"Search WordPress Codex"
+		"Search WordPress Codex",
 	],
 	"installed_packages":
 	[
 		"Alignment",
+		"Color Highlight",
 		"Color Highlighter",
 		"ColorPicker",
 		"ColorSchemeEditor",
 		"DeleteBlankLines",
 		"DocBlockr",
+		"Emoji",
 		"Hex-to-RGBA",
+		"JSCustom",
+		"JSONComma",
+		"JSONLint",
 		"LiveReload",
+		"LiveServer",
 		"LiveStyle",
 		"MarkdownPreview",
 		"Minifier",
 		"Monokai Extended",
 		"Package Control",
 		"PackageResourceViewer",
+		"Pretty JSON",
 		"Sass",
 		"Search WordPress Codex",
 		"Search WordPress Codex or QueryPosts",
 		"SideBarEnhancements",
-		"WordPress"
-	]
+		"StringEncode",
+		"W3CValidators",
+		"WordPress",
+		"WordPress Developer Resources",
+		"WordPress Gutenburg Blocks Autocompletions",
+	],
 }

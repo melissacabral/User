@@ -4,6 +4,9 @@
 	"color_scheme": "Packages/User/color schemes/melissa WeaveDreamer.tmTheme",
 	"fade_fold_buttons": false,
 	"font_size": 12,
+	"draw_white_space": "none",
+	"fade_fold_buttons": false,
+	"font_face": "Inconsolata",
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -15,5 +18,5 @@
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
 	"tab_size": 4,
-	"word_wrap": true,
+	"word_wrap": true
 }
